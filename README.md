@@ -1,7 +1,7 @@
 # Air Quality and Traffic Analysis
 
 ## Introduction
-In this project, we address the critical issue of air quality in Nova Scotia, focusing on the pollutant 'ambient fine particulate matter (PM2.5).' Our goal is to integrate machine learning with air pollution epidemiology to support environmental efforts led by Nova Scotia Environment (NSE). The project involves the analysis of hourly PM2.5 data from the air quality station 'Halifax' and the correlation with traffic flow in the region.
+In this project, we address the critical issue of air quality in Nova Scotia, focusing on the pollutant 'ambient fine particulate matter (PM2.5).' Our goal is to integrate machine learning with air pollution epidemiology to support environmental efforts led by Nova Scotia Environment (NSE). The project involves the analysis of hourly PM2.5 data from the air quality station 'Halifax' and the correlation with traffic flow in the region. This was assignment 1 for course CSCI6515 - Machine Learning for Big Data.
 
 ## Data Collection
 1. **PM2.5 Data:**
